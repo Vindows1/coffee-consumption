@@ -1,16 +1,12 @@
-# coffee_consumption_counter
+## ☕ Coffee Consumption Counter
 
-A new Flutter project.
+A simple Flutter app to track your daily coffee consumption – with local storage and a 7-day history overview.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Features
+    Count how many coffees you've had today.
+    Store consumption data persistently using shared_preferences.
+    View a 7-day consumption history.
+    Supports system-based light/dark mode.
+    Haptic feedback for better interaction.
+    Reset button with confirmation dialog.
+## 📸 Screenshot

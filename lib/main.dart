@@ -130,7 +130,7 @@ List<MapEntry<String, int>> _getLast7DaysStats() {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        'Konsum-Historie (letzte 7 Tage)',
+                        'History (last 7 days)',
                         style: Theme.of(context).textTheme.titleLarge,
                       ),
                       SizedBox(height: 16),
