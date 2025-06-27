@@ -188,7 +188,7 @@ List<MapEntry<String, int>> _getLast7DaysStats() {
             HapticFeedback.lightImpact();
             _decremtCounter();
             },
-          tooltip: "minus",
+          tooltip: "Decrement",
           child: Icon(Icons.remove),
         ),
           ],
